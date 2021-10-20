@@ -1,0 +1,35 @@
+h1 {
+  text-align:center;
+  color: gold;
+}
+
+h3 {
+  text-align:center;
+  color: gold;
+}
+
+.jumbotron {
+  background-color: gray;
+  font-style: serif;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-weight: bolder;
+}
+
+#formOne {
+  width : 25%;
+}
+
+label {
+  color: gold;
+  background-color: gray;
+}
+
+body {
+  background-image: url(../img/bling.jpeg);
+  background-size: 100px 100px; 
+}
+
+#output {
+  
+}
