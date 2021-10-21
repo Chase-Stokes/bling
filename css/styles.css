@@ -31,5 +31,13 @@ body {
 }
 
 #output {
-  
+  display: none;
+  float: right;
+  width: 50%;
+}
+
+.btn {
+  background-color: grey;
+  border: solid black;
+  color: gold;
 }
